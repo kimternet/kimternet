@@ -1,6 +1,6 @@
 
 <h1>안녕하세요! <br>
-음악을 전공했지만 지금은 풀스택 개발자를 꿈꾸는 백엔드 개발자 "김형운" 입니다.</h1>
+풀스택 개발자를 꿈꾸는 백엔드 개발자 "김형운" 입니다.</h1>
 <div align=center><h2>My tech stack 📚</h2></div>
 
 <div align=center> 
