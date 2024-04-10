@@ -2,5 +2,5 @@
 
 
 <p>Welcome to my page! </br> I'm Hyeong_woon Kim
-<h3>Things I code with</h3>
+
 
