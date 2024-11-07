@@ -2,6 +2,6 @@
 안녕하세요, 학,석사 음악 전공을 기반으로 오디오와 음성 AI 개발을 목표로 하는 신입 개발자 김형운입니다!</h1>
 
 
-<p>안녕하세요! </br> I'm Hyeong_woon Kim
+<p>Hi! </br> I'm Hyeong_woon Kim
 
 
