@@ -27,4 +27,4 @@
 ![Audio Processing](https://img.shields.io/badge/Audio%20Processing-00897B?style=for-the-badge&logo=spotify&logoColor=white)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimternet)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/kimternet=DenverCoder1)](https://git.io/streak-stats)
