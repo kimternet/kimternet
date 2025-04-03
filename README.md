@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요 👋 김형운입니다! </h1>
+<h1>안녕하세요 👋 김형운입니다!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 
-<p>Hi! </br> I'm Hyeong_woon Kim
+<p>Hi!👋 </br> I'm Hyeong_woon Kim
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
