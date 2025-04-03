@@ -25,11 +25,3 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![Audio Processing](https://img.shields.io/badge/Audio%20Processing-00897B?style=for-the-badge&logo=spotify&logoColor=white)
-
-
-
-## GitHub 통계
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
-
-## 기여 스트릭
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME)
