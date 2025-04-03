@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-안녕하세요, 김형운입니다!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
+# 안녕하세요 👋 김형운입니다!
 
 <p>Hi! </br> I'm Hyeong_woon Kim
 
@@ -27,6 +27,9 @@
 ![Audio Processing](https://img.shields.io/badge/Audio%20Processing-00897B?style=for-the-badge&logo=spotify&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kimternet)](https://git.io/streak-stats)
-![GitHub Streak](https://streak-stats.demolab.com/?user=kimternet)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimternet)
+
+## GitHub 통계
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
+
+## 기여 스트릭
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME)
